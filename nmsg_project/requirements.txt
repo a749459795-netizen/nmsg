@@ -1,0 +1,10 @@
+# nmsg Dependencies
+
+# GUI Framework
+PyQt6>=6.6.0
+
+# Async file operations (optional, for future async support)
+aiofiles>=23.0.0
+
+# Environment configuration
+python-dotenv>=1.0.0

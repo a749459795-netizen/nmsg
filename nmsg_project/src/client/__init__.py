@@ -1,0 +1,3 @@
+"""
+nmsg client package
+"""

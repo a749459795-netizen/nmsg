@@ -1,0 +1,17 @@
+﻿# 客户端依赖
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+PyQt6-sip>=13.5.0
+
+# 服务器端依赖
+aiofiles>=23.0.0
+
+# 数据库依赖（根据实际选择）
+# SQLite（内置，无需安装）
+# 或：
+# psycopg2-binary>=2.9.0  # PostgreSQL
+# pymysql>=1.1.0           # MySQL
+# sqlalchemy>=2.0.0        # ORM
+
+# 工具
+python-dotenv>=1.0.0
